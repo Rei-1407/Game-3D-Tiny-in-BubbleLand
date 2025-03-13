@@ -1,6 +1,6 @@
 ## Tiny in Bubbleland  
 
-Link video demo playtest: [Link video demo](https://drive.google.com/file/d/1m7B3z2ShBFVl9hM9hjpwtTJ7ovrPj6_Y/view?usp=sharing)
+Link video demo playtest: [Link video demo](https://drive.google.com/file/d/1m7B3z2ShBFVl9hM9hjpwtTJ7ovrPj6_Y/view?usp=sharing)  
 Link playtest (itch.io): [bubble gamejam itch.io](https://isanh.itch.io/bubble-in-tinyland)
 
 A 3D platformer game about the journey of Tiny, a little boy who gets lost in Bubbleland and must find his way back to the real world.  

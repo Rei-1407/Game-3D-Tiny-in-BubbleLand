@@ -1,8 +1,8 @@
 ## Tiny in Bubbleland  
 
 Link video demo playtest: [Link video demo](https://drive.google.com/file/d/1m7B3z2ShBFVl9hM9hjpwtTJ7ovrPj6_Y/view?usp=sharing)  
-Link playtest (itch.io): [bubble gamejam itch.io](https://isanh.itch.io/bubble-in-tinyland)
-Link file build in here: [global gamejam](https://globalgamejam.org/games/2025/tiny-bubbleland-9)
+Link playtest (itch.io): [bubble gamejam itch.io](https://isanh.itch.io/bubble-in-tinyland)  
+Link file build in here: [global gamejam](https://globalgamejam.org/games/2025/tiny-bubbleland-9)  
 
 A 3D platformer game about the journey of Tiny, a little boy who gets lost in Bubbleland and must find his way back to the real world.  
 In this strange land, bubbles serve as Tiny’s mode of transportation. However, to use this unique “vehicle,” Tiny must rely on a special item—a Teleportation Gun.  
